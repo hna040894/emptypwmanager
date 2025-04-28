@@ -1,9 +1,9 @@
-Group work: Software project (CyberSec Perspective)
+**Group work: Software project (CyberSec Perspective)**
 
-Instructions:
+**Instructions:**
 Run the program with python main.py
 
-Then you should see:
+**Then you should see:**
 Password Manager Menu:
 1. Add Password
 2. Get Password
@@ -12,4 +12,4 @@ Password Manager Menu:
 5. Quit
 Enter your choice:
 
-Enter your selection accordingly to get response
+**Enter your selection accordingly to get response**
